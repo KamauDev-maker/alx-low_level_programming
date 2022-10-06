@@ -19,6 +19,6 @@ a = b  = malloc(nb);
 if (a == NULL)
 return (NULL);
 for (i = 0; i < nb; i++)
-*a++ = 0;
+*a++ = '\0';
 return (b);
 }
