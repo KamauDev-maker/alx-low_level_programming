@@ -1,7 +1,7 @@
 #include "lists.h"
 /**
 **add_dnodeint - adds a newnode at the begging of a dlistint
-*@h: pointer of the first element
+*@head: pointer of the first element
 *@n: integer newnode
 *Return: Address of the new element, NULL
 */
